@@ -40,6 +40,12 @@ This project analyzes a global retail superstore dataset spanning 4 years to unc
 - Standardized categorical values for consistency  
 - Checked for outliers and ensured data accuracy  
 
+## 📁 Dataset
+
+The cleaned dataset used for analysis is available below:
+
+👉 [Download Cleaned Dataset](Superstore$Retail$Sales$Data.xlsx)
+
 ---
 
 ## 📊 Analysis Performed
