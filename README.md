@@ -44,7 +44,7 @@ This project analyzes a global retail superstore dataset spanning 4 years to unc
 
 The cleaned dataset used for analysis is available below:
 
-👉 [Download Cleaned Dataset](Superstore Retail Sales Data.xlsx)
+👉 [Download Cleaned Dataset](Superstore%20Retail%20Sales%20Data.xlsx)
 
 ---
 
