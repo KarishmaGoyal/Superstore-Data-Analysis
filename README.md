@@ -72,7 +72,7 @@ This project analyzes a global retail superstore dataset spanning 4 years to unc
 ---
 ## Dashboard
 
-[Click Here to See the Dashboard](Dashboard..png)
+[!Dashboard](Dashboard..png)
 
 ---
 ## 🔍 Key Insights
