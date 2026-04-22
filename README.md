@@ -70,7 +70,11 @@ This project analyzes a global retail superstore dataset spanning 4 years to unc
 - Order frequency distribution across customers  
 
 ---
+## Dashboard
 
+[Click Here to See the Dashboard](Dashboard..png)
+
+---
 ## 🔍 Key Insights
 
 - **Revenue Driver:** Phones generate the highest sales, making them the primary revenue-driving product  
